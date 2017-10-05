@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<Menu>
+	<menuItem id="01" name="dimos" title_en="Municipality" title_gr="Δήμος" map="yes">
+		<submenu id="#" name="#">
+			<item id="010101" name="dimos" lat="#" lon="#" title_en="Municipality" title_gr="Δήμος" static="no"/>
+			<item id="010102" name="history" lat="#" lon="#" title_en="History" title_gr="Ιστορία" static="no"/>
+			<item id="010103" name="prosvasi" lat="35.197481" lon="25.487610" title_en="Access" title_gr="Πρόσβαση" static="no"/>
+			<item id="010104" name="info" lat="#" lon="#" title_en="Information" title_gr="Πληροφορίες" static="yes"/>
+			<item id="010105" name="credits" lat="#" lon="#" title_en="Credits" title_gr="Credits" static="yes"/>
+		</submenu>
+	</menuItem>	
+	<menuItem id="02" name="oikismoi" title_en="Settlements" title_gr="Οικισμοί" map="yes">
+		<submenu id="#" name="#">
+			<item id="020101" name="katoMetoxi" lat="35.185685" lon="25.431620" title_en="Kato Metoxi" title_gr="Κάτω Μετόχι" static="no"/>
+			<item id="020102" name="agiosXaralambos" lat="35.175468" lon="25.439578" title_en="Agios Xaralambos" title_gr="Άγιος Χαράλαμπος" static="no"/>
+			<item id="020103" name="plati" lat="35.169448" lon="25.439201" title_en="Plati" title_gr="Πλάτη" static="no"/>
+			<item id="020104" name="psixro" lat="35.164990" lon="25.451360" title_en="Psichro" title_gr="Ψυχρό" static="no"/>
+			<item id="020105" name="magoula" lat="35.160860" lon="25.456896" title_en="Magoula" title_gr="Μαγουλά" static="no"/>
+			<item id="020106" name="kaminaki" lat="35.156892" lon="25.466163" title_en="Kaminaki" title_gr="Καμινάκι" static="no"/>
+			<item id="020107" name="avrakonte" lat="35.161039" lon="25.479413" title_en="Avrakonte" title_gr="Αβρακόντε" static="no"/>
+			<item id="020108" name="koudoumalia" lat="35.160754" lon="25.484859" title_en="Koudoumalia" title_gr="Κουδουμαλιά" static="no"/>
+			<item id="020109" name="agiosGeorgios" lat="35.161946" lon="25.487589" title_en="Agios Georgios" title_gr="Άγιος Γεώργιος" static="no"/>
+			<item id="020110" name="agiosKonstantinos" lat="35.175034" lon="25.501851" title_en="Agios Konstantinos" title_gr="Άγιος Κωνσταντίνος" static="no"/>
+			<item id="020111" name="mesaLasithi" lat="35.182048" lon="25.513225" title_en="Mesa Lasithi" title_gr="Μεσα Λασίθι" static="no"/>
+			<item id="020112" name="mesaLasithaki" lat="35.177947" lon="25.520102" title_en="Mesa Lasithaki" title_gr="Μεσα Λασιθάκι" static="no"/>
+			<item id="020113" name="marmaketo" lat="35.188475" lon="25.497547" title_en="Marmaketo" title_gr="Μαρμακέτο" static="no"/>
+			<item id="020114" name="farsaro" lat="35.190196" lon="25.496108" title_en="Farsaro" title_gr="Φαρσάρο" static="no"/>
+			<item id="020115" name="tzermiadon" lat="35.199284" lon="25.488796" title_en="Tzermiadon" title_gr="Τζερμιάδων" static="no"/>
+			<item id="020116" name="lagou" lat="35.199685" lon="25.470598" title_en="Lagou" title_gr="Λαγού" static="no"/>
+			<item id="020117" name="pinakiano" lat="35.197182" lon="25.464489" title_en="Pinakiano" title_gr="Πινακιάνο" static="no"/>
+		</submenu>
+	</menuItem>
+	<menuItem id="03" name="landmarks" title_en="Landmarks" title_gr="Αξιοθέατα" map="yes">
+		<submenu id="0301" name="dikteon" title_en="Dikteon Cave - Psichro Cave" title_gr="Δικταίον Άνδρoν - Σπήλαιο Ψυχρού" img="yes" map="no">
+			<item id="030101" name="1" lat="#" lon="#" title_en="A) Upper cave" title_gr="A) Πάνω σπήλαιο" static="no"/>
+			<item id="030102" name="2" lat="#" lon="#" title_en="B) Down cave" title_gr="B) Κάτω σπήλαιο" static="no"/>
+			<item id="030103" name="3" lat="#" lon="#" title_en="C) Zeus Birth room" title_gr="C) Δωμάτιο Γεννησης του Δία" static="no"/>
+			<item id="030104" name="4" lat="#" lon="#" title_en="D) Lake" title_gr="D) Λίμνη" static="no"/>
+			<item id="030105" name="5" lat="#" lon="#" title_en="E) Cloak room" title_gr="E) Δωμάτιο Μανδύα" static="no"/>
+			<item id="030106" name="6" lat="#" lon="#" title_en="F) Non Visited chamber" title_gr="F) Μη επισκέψιμος θάλαμος" static="no"/>
+			<item id="030107" name="infoD" lat="#" lon="#" title_en="Information" title_gr="Πληροφορίες" static="no"/>
+			<item id="030108" name="historyD" lat="#" lon="#" title_en="History" title_gr="Ιστορικά στοιχεία" static="no"/>
+			<item id="030109" name="myths" lat="#" lon="#" title_en="Mythology" title_gr="Μυθολογία" static="no"/>
+		</submenu>
+		<submenu id="0302" name="landmarks" title_en="Landmarks" title_gr="Αξιοθέατα" img="no" map="yes">
+			<item id="030201" name="vidiani" lat="35.194893" lon="25.440285" title_en="Vidianis Monastery" title_gr="Ιερά Μονή Βιδιανής" static="no"/>
+			<item id="030202" name="kroustalenia" lat="35.179050" lon="25.502733" title_en="Kroustalenias Monastery" title_gr="Ιερά Μονή Κρουσταλένιας" static="no"/>
+			<item id="030203" name="anemomiloi" lat="#" lon="#" title_en="Windmills" title_gr="Ανεμόμυλοι" static="no"/>
+		</submenu>
+		<submenu id="0303" name="alternatives" title_en="Alternatives" title_gr="Εναλλακτικά" img="no" map="yes">
+			<item id="030301" name="monopati" lat="#" lon="#" title_en="National Trail" title_gr="Εθνικό Μονοπάτι" static="no"/>
+			<item id="030302" name="limnakoro" lat="35.143493" lon="25.481481" title_en="Limnakaros Plateau" title_gr="Οροπέδιο Λιμνάκαρο" static="no"/>
+			<item id="030303" name="nisimos" lat="35.212778" lon="25.476832" title_en="Nisimos Plateau" title_gr="Οροπέδιο Νίσημος" static="no"/>
+		</submenu>
+	</menuItem>	
+	<menuItem id="04" name="filoxenia" title_en="Hospitality" title_gr="Φιλοξενία" map="no">
+		<submenu id="#" name="#">
+			<item id="040101" name="restaurants" lat="#" lon="#" title_en="Food &amp; Drinks" title_gr="Εστίαση" static="yes"/>
+			<item id="040102" name="hotel" lat="#" lon="#" title_en="Pansions" title_gr="Ξενώνες" static="yes"/>
+			<item id="040103" name="shops" lat="#" lon="#" title_en="Shops" title_gr="Παραδοσιακά Προϊόντα" static="yes"/>
+		</submenu>
+	</menuItem>	
+</Menu>

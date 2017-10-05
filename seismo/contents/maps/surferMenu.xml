@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<Menu>
+	<menuItem name="Navigate" link="#">
+		<item name="Go to coordinates" link="contents/maps/coordinates.php" width="480" height="180"/>
+		<item name="Load position" link="contents/maps/loadPosition.php" width="350" height="120"/>
+		<item name="Save position" link="contents/maps/savePosition.php" width="350" height="140"/>
+		<item name="Delete position" link="contents/maps/deletePosition.php" width="350" height="120"/>
+	</menuItem>	
+	<menuItem name="Query" link="#">
+		<item name="Range" link="contents/maps/range.php" width="570" height="270"/>
+		<item name="Top N" link="contents/maps/topN.php" width="480" height="215"/>
+		<item name="Nearest Neighbour" link="contents/maps/NN.php" width="550" height="240"/>
+		<item name="Distance - Based" link="contents/maps/distance.php" width="550" height="250"/>
+		<item name="Quakes with Macroseismic data" link="loadMacro()" width="300" height="150"/>
+		<item name="Magnitude Frequency" link="loadMagFreq()" width="300" height="150"/>
+		<item name="Depth Frequency" link="loadDepFreq()" width="300" height="150"/>
+		<item name="Sites" link="contents/maps/sites.php" width="400" height="150"/>
+	</menuItem>	
+	<menuItem name="Data Warehouse" link="contents/maps/warehouse.php" width="400" height="100"/>
+	<menuItem name="Remove All Overlays" link="clearResults()" width="300" height="150"/>
+</Menu>

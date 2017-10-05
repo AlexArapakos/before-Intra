@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<Menu>
+	<menuItem name="Range" link="contents/maps/range.php" width="570" height="270"/>
+	<menuItem name="Top N" link="contents/maps/topN.php" width="480" height="215"/>
+	<menuItem name="Nearest Neighbour" link="contents/maps/NN.php" width="550" height="240"/>
+	<menuItem name="Distance - Based" link="contents/maps/distance.php" width="550" height="250"/>
+	<menuItem name="Quakes with Macroseismic data" link="loadMacro()" width="300" height="150"/>
+	<menuItem name="Magnitude Frequency" link="loadMagFreq()" width="300" height="150"/>
+	<menuItem name="Depth Frequency" link="loadDepFreq()" width="300" height="150"/>
+	<menuItem name="Sites" link="contents/maps/sites.php" width="400" height="150"/>
+	<menuItem name="Remove All Overlays" link="clearResults()" width="300" height="150"/>
+</Menu>

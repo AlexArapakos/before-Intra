@@ -1,0 +1,54 @@
+/* Body */
+body {
+	background-color: #C3D9FF;
+	font-family : Sans-Serif; 
+	font-size : 12px;
+	margin: 0;
+	padding: 0;
+}
+
+/* Images */
+img {
+	border: none;
+}
+
+/* Error Colors*/
+.err {
+	color : #FF1A00;
+}
+
+/* Links */
+a {
+	text-decoration:none;
+	color: #4096EE; 
+}
+a:hover {
+	text-decoration: underline;
+	color: #356AA0;  
+}
+
+/* Map */
+.map {
+	width:300px;
+	height:300px;
+	display: none;
+}
+
+/* Fonts */
+h2 {
+	margin: 5px;
+	padding: 0;
+	font-size: 1.2em;
+	text-align:right;
+}
+h3 {
+	margin: 0;
+	padding: 0;
+	font-weight:bold;
+	font-size: 1.1em;		
+}
+h4 {
+	margin: 0;
+	padding: 0;
+	text-align:center;		
+}

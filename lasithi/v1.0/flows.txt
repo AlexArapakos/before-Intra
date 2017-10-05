@@ -1,0 +1,10 @@
+
+JavaScript functions flow:
+
+1) parseXML()         --> put XML content into Arrays. 
+						  Then run loadHeader() & loadFooter(0) & setLanguage(Greek) & loadTitle(0) & loadContent(0)
+2) loadHeader()       --> load logo
+3) loadFooter(t)      --> load (language flags) & (map button) & (goBack button) when indicated according to Arrays
+4) setLanguage(t)     --> set English or Greek language
+5) loadTitle(t)       --> load appropriate titles when indicated according to Arrays
+6) loadContent(t)     --> load (buttons & img) or (img & txt) or (map) or (static pages) according to Arrays
